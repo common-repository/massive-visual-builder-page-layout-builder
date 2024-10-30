@@ -1,0 +1,132 @@
+/*-----------------------------------*/
+/* Table Pricing */
+/*-----------------------------------*/
+
+#PBcover-mod .massb_item .price_item{background: #3bbec0;}
+#PBcover-mod .massb_item .price_item.blue{background: #67b0d1;}
+#PBcover-mod .massb_item .price_item.green{background: #60cd9b;}
+#PBcover-mod .massb_item .price_item.red{background: #e87352;}
+#PBcover-mod .massb_item .price_item.yellow{background: #ebc85e;}
+#PBcover-mod .massb_item .price_item.turquoise{background: #1d5f60;}
+#PBcover-mod .massb_item .price_item.black{background: #333;}
+#PBcover-mod .massb_item .price_item.brown{background: #a48b60;}
+
+#PBcover-mod .massb_item .price_item{text-align: center; margin-bottom: 30px;}
+
+/* price style 1 */
+
+#PBcover-mod .massb_item .price_col_head strong{
+	 background: none repeat scroll 0 0 rgba(0, 0, 0, 0.05);
+    color: #FFFFFF;
+    display: block;
+    font-size: 20px;
+    font-weight: 600;
+    padding: 25px 10px;
+    text-transform: uppercase;
+}
+.price_body_top strong {
+	display: block;
+    padding: 10px;
+    font-size: 35px;
+    font-weight: 600;
+    color: #fff;
+    text-transform: uppercase;
+   
+}
+.price_body_top span {
+	display: block;
+    padding: 5px 10px;
+    font-size: 15px;
+    color: #fff;
+   
+}
+
+#PBcover-mod .massb_item .price_body_top{
+    padding: 15px 15px 20px 10px;
+    border-bottom: 1px solid #888;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+#PBcover-mod .massb_item .pricing_box .price{
+    display: inline-block;
+    position: relative;
+    font-size: 60px;
+    font-weight: 400;
+    color: #fff;
+}
+#PBcover-mod .massb_item .pricing_box .price *{}
+
+#PBcover-mod .massb_item .pricing_box .price em{
+    font-size: 0.6em;
+    font-weight: 300;
+    font-style: normal;
+    top: 0.32em;
+    left: -0.6em;
+}
+#PBcover-mod .massb_item .pricing_box .price sup{
+    font-size: 0.44em;
+    top: auto;
+    left:103%;
+    bottom: 0.68em;
+}
+#PBcover-mod .massb_item .pricing_box .price span{
+    font-size: 0.24em;
+    font-weight: 300;
+    color: #afe4ff;
+    left:100%;
+    bottom: 0.2em;
+}
+
+#PBcover-mod .massb_item .price_col_body li{
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+	display:block;
+    line-height: 24px;
+    padding: 22px 10px 23px;
+    border-bottom: 1px solid #888;
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+#PBcover-mod .massb_item .price_col_body li span.fa {
+	padding-right: 10px;
+	}
+#PBcover-mod .massb_item .price_col_body li span.large{
+    font-size: 30px;
+    vertical-align: top;
+}
+
+#PBcover-mod .massb_item .price_col_foot{
+    background: #bbb;
+    background: rgba(0,0,0,0.05);
+    padding: 12px 0 13px;
+}
+#PBcover-mod .massb_item .price_col_foot .btn span, .price_col_foot .btn input{background-color: transparent;}
+#PBcover-mod .massb_item .boxed, a.boxed {position:relative; background: #fff; margin-bottom:30px;}
+
+#PBcover-mod .massb_item .boxed-blue, a.boxed-blue{background: #67b0d1;}
+#PBcover-mod .massb_item .boxed-green, a.boxed-green{background: #60cd9b;}
+#PBcover-mod .massb_item .boxed-red, a.boxed-red{background: #e87352;}
+#PBcover-mod .massb_item .boxed-yellow, a.boxed-yellow{background: #ebc85e;}
+#PBcover-mod .massb_item .boxed-turquoise, a.boxed-turquoise{background: #3bbec0;}
+#PBcover-mod .massb_item .boxed-black, a.boxed-black{background: #333;}
+#PBcover-mod .massb_item .boxed-brown, a.boxed-brown{background: #a48b60;}
+.btn{
+    display:inline-block;
+    padding: 0;
+    border: 0 none;
+    border-radius: 0;
+}
+.btn span,
+.btn input{
+    display: block;
+    height: 45px;
+    line-height: 45px;
+    padding: 0 16px;
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    white-space: nowrap;
+    text-shadow:none;
+    background-color: #3bbec0;
+    border: 0 none;
+    
+}

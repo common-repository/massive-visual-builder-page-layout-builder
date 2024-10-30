@@ -1,0 +1,6 @@
+/**
+ * shortcodes-ultimate.3.9.5 
+ *http://wordpress.org/plugins/shortcodes-ultimate/
+ * GNU General Public License, version 2
+ * http://www.gnu.org/licenses/old-licenses/gpl-2.0.html 
+ */

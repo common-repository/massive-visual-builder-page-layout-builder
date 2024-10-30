@@ -1,0 +1,412 @@
+/*
+ * Massive Visual Builder for Wordpress
+ * all rights reserved 2014.
+ */
+#added_items{
+	clear:both;
+    position: relative;
+	
+}
+.editable-items{
+	display: table;
+    float: left;
+    margin: 3px 0;
+    padding: 0;
+	width:100%;
+	height:50px;
+
+}
+.editable-items li{
+	width:100%;
+	text-shadow:-1px -1px 0 #102E54;
+	background: #06C;
+	border-bottom: 1px solid #3979A3;
+    border-top: 1px solid #3979A3;
+	background-image:-webkit-linear-gradient(top, #407ab8, #295c96);
+	background-image:-moz-linear-gradient(top, #407ab8, #295c96);
+	background-image:-ms-linear-gradient(top, #407ab8, #295c96);
+	background-image:-o-linear-gradient(top, #407ab8, #295c96);
+	background-image:linear-gradient(top, #407ab8, #295c96);
+	-webkit-border-radius:1px;
+	-moz-border-radius:1px;
+	border-radius:1px;
+	-webkit-box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 0px 0 rgba(255, 255, 255, .1) inset, 0 2px 0 #1c628a, 0 0 0 rgba(0, 0, 0, .5);
+	-moz-box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 0 0 rgba(255, 255, 255, .1) inset, 0 2px 0 #1c628a, 0 0 0 rgba(0, 0, 0, .5);
+	box-shadow:0 1px 0 rgba(255, 255, 255, .5) inset, 0 0 0 rgba(255, 255, 255, .1) inset, 0 2px 0 #1c628a, 0 0 0 rgba(0, 0, 0, .5);
+    display: block;
+    height: 50px;
+    margin: 0 0 5px;
+	padding:0;
+    position: relative;
+    }
+	
+.postmodule-edit-area{
+	background: none repeat scroll 0 0 #CCCCCC;
+	-moz-box-shadow:    inset 0 0 5px #C7C7C7;
+   -webkit-box-shadow: inset 0 0 5px #C7C7C7;
+   box-shadow:         inset 0 0 5px #C7C7C7;
+	padding:12px;
+		}
+.control-obj{
+	background: none repeat scroll 0 0 #F5F5F5;
+    clear: both;
+    content: " ";
+    display: table;
+    width: 100%;
+	}
+		
+.obj-wid{
+	width:98%;
+		}
+
+.arrow-right{
+	background:url(../images/admin-icon/plus-icon.png) no-repeat 0 0 ;
+    right: 1px;
+    text-indent: -1e+8px;
+    top: 0px;
+	
+}
+.arrow-left{
+	background:url(../images/admin-icon/minus-icon.png) no-repeat 0 0 ;
+	top: 0px;
+    right: 24px;
+    text-indent: -1e+8px;
+	
+}
+.del-icon{
+	background-color:#EFEFEF;
+	background-image: url("../assets/bootstrap/img/glyphicons-halflings.png");
+    background-position: -451px 4px;
+    background-repeat: no-repeat;
+	right: 1px;
+    top: 0px;
+            
+}
+.clone-icon{
+	background-color:#EFEFEF;
+	background-image: url("../images/admin-icon/copy.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+	left: 28px;
+    top: 0px;
+}
+.edit-item-styl{
+	background-color:#EFEFEF;
+	background-image: url("../assets/bootstrap/img/glyphicons-halflings.png");
+    background-position: -90px -69px;
+    background-repeat: no-repeat;
+	top: 0px;
+    left: 1px;
+	}
+	
+.editable-items .del-icon, .editable-items .edit-item-styl, .editable-items .arrow-right, .editable-items .arrow-left, .editable-items .clone-icon {
+	  cursor: pointer;
+    display: table;
+    font-size: 16px;
+    font-weight: normal;
+    height: 20px;
+    position: absolute;
+    text-align: center;
+    text-decoration: none;
+    transition: all 0.2s linear 0s;
+    vertical-align: middle;
+    width: 25px;
+}
+
+
+.item-name{
+	box-shadow: 0 20px 0 rgba(170, 170, 170, 0.6) inset;
+	display: table;
+    height: 85%;
+    margin: 0 auto;
+    width: 100%;
+    
+   
+	
+}
+.editable-items .item-name div {
+	color: #FFFFFF;
+    display: table-cell;
+    font-weight: bold;
+    height: 100%;
+    text-align: center;
+    vertical-align: bottom;
+    width: 100%;
+	cursor:move;
+	}
+
+
+.container-editable {
+  margin-right: auto;
+  margin-left: auto;
+  padding: 31px 5px 0;
+  background:#E1E1E1;
+  
+}
+.container-editable:before,
+.container-editable:after {
+  content: " ";
+  display: table;
+}
+.container-editable:after {
+  clear: both;
+}
+
+.row-editable {
+	background:#F8F8F8;
+	background-image: url("../images/postmodules/bg-thum.png");
+	border: 1px dashed #CCCCCC;
+	padding:30px 0 0;
+  margin:0 0 31px 0;
+  position: relative;
+  cursor:move;
+  /*box-shadow: 0px 0px 2px #888888;*/
+}
+.row-editable:before,
+.row-editable:after {
+  content: " ";
+  display: table;
+}
+.row-editable:after {
+  clear: both;
+}
+
+.col-xs-1, .col-xs-2, .col-xs-3, .col-xs-4, .col-xs-5, .col-xs-6, .col-xs-7, .col-xs-8, .col-xs-9, .col-xs-10, .col-xs-11, .col-xs-12 {
+	display:table;
+	float:left;
+	position: relative;
+	min-height: 1px;
+	padding: 0 0 17px;
+	margin-top:5px;
+	height:auto;
+	background-color: #FFFFFF;
+	margin-left: 0.4%;
+	margin-right:0;
+	margin-bottom:0;
+	}
+	
+.col-xs-12 {
+	width:99.2%
+ 
+}
+.col-xs-11 {
+  width: 91.66666666666666%;
+}
+.col-xs-10 {
+  width: 83.33333333333334%;
+}
+.col-xs-9 {
+  width: 74.3%;
+}
+.col-xs-8 {
+  width: 66.66666666666666%;
+}
+.col-xs-7 {
+  width: 58.333333333333336%;
+}
+.col-xs-6 {
+  width: 49.4%;
+}
+.col-xs-5 {
+  width: 41.66666666666667%;
+}
+.col-xs-4 {
+  width: 32.8%;
+}
+.col-xs-3 {
+  width: 24.5%;
+}
+.col-xs-2 {
+  width: 16.2%;
+  font-size:80%
+}
+.col-xs-1 {
+  width: 8.333333333333332%;
+}
+
+
+.editable-component{
+	
+	
+}
+		
+.del-icon1{
+	background:url(../images/admin-icon/trash-icon.png) no-repeat 0 0 ;
+	left: 47px;
+    top: 0px;
+            
+}
+.clone-icon1{
+	background:url(../images/admin-icon/clone-icon.png) no-repeat 0 0 ;
+	left: 24px;
+    top: 0px;
+            
+}
+.edit-icon1{
+	background:url(../images/admin-icon/edit-icon.png) no-repeat 0 0 ;
+	top: 0px;
+    left: 1px;
+	}
+	
+.settings-button {
+	border-radius: 3px;
+	cursor: pointer;
+	display: block;
+	font-size: 16px;
+	font-weight: normal;
+	height: 30px;
+	position: absolute;
+	text-align: center;
+	text-decoration: none;
+	transition: all 0.2s linear 0s;
+	vertical-align: middle;
+	width: 30px;
+	top:-32px;
+	left:55.1%;
+}
+.settings-button2 {
+	background:#8f8f8f;
+	cursor: pointer;
+	display: block;
+	font-size: 16px;
+	font-weight: normal;
+	height: 30px;
+	text-align: center;
+	text-decoration: none;
+	transition: all 0.2s linear 0s;
+	vertical-align: middle;
+	width: 30px;
+}
+.row-edit-btn{
+	background-image: url("../assets/bootstrap/img/glyphicons-halflings.png");
+	background-repeat: no-repeat;
+    background-position: -88px -64px;
+	position: absolute;
+	top:0;
+	left:50.2%;
+	}
+	.row-delet-btn{
+	background-image: url("../assets/bootstrap/img/glyphicons-halflings.png");
+    background-position: -448px 8px;
+    background-repeat: no-repeat;
+   	position: absolute;
+	left: 45.9%;
+    top: 0;
+	}
+	.row-copy-btn{
+	background-image: url("../images/admin-icon/copy.png");
+    background-repeat: no-repeat;
+	background-position:center center;
+    position: absolute;
+	left: 41.6%;
+    top:0;
+	}
+.column-row-dividing{
+	background-image: url("../images/admin-icon/icon-setting.png");
+    background-repeat: no-repeat;
+	background-position:center center;
+   	position: absolute;
+    top:0;
+	left:54.5%;
+   }
+   .column-plus{
+	background-image: url("../assets/bootstrap/img/glyphicons-halflings.png");
+	background-position: -405px -88px;
+    background-repeat: no-repeat;
+    height: 25px;
+  	margin-top: -6px;
+	margin-left: auto;
+	margin-right:auto;
+    width: 20px;
+	   }
+	   
+.column-ae-button{
+	float: right;
+	height: 20px;
+	width: 100%;
+	background: #ADBBCB;
+	}
+	.column-edit{
+	background-image: url("../assets/bootstrap/img/glyphicons-halflings.png");
+	background-position: -93px -64px;
+    background-repeat: no-repeat;
+    height: 25px;
+    margin-top: -6px;
+	margin-left: auto;
+	margin-right:auto;
+    width: 20px;
+	   }
+	   
+.column-ee-button{
+	background: #ADBBCB;
+	height:20px;
+	width:100%;
+	position:absolute;
+	bottom:0;
+	}
+	
+	[class^="ico-"],
+[class*=" ico-"] {
+  display: inline-block;
+  width: 23px;
+  height: 12px;
+  *margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../images/admin-icon/column.png");
+  background-position: 14px 14px;
+  background-repeat: no-repeat;
+	margin-top: 9px;
+}
+/* White icos with optional class, or on hover/active states of certain elements */
+.ico-white,
+.nav-pills > .active > a > [class^="ico-"],
+.nav-pills > .active > a > [class*=" ico-"],
+.nav-list > .active > a > [class^="ico-"],
+.nav-list > .active > a > [class*=" ico-"],
+.navbar-inverse .nav > .active > a > [class^="ico-"],
+.navbar-inverse .nav > .active > a > [class*=" ico-"],
+.dropdown-menu > li > a:hover > [class^="ico-"],
+.dropdown-menu > li > a:hover > [class*=" ico-"],
+.dropdown-menu > .active > a > [class^="ico-"],
+.dropdown-menu > .active > a > [class*=" ico-"],
+.dropdown-submenu:hover > a > [class^="ico-"],
+.dropdown-submenu:hover > a > [class*=" ico-"] {
+  background-image: url("../images/admin-icon/column.png");
+}
+		.ico-1column{
+		background-position:0 0;
+		}
+		.ico-1-2column{
+		background-position:-31px 0;
+		}
+		.ico-1-3colmun{
+		background-position:-61px 0;
+		}
+		.ico-3-4-1column{
+		background-position:-92px 0;
+		}
+		.ico-1-4column{
+		background-position:-123px 0;
+		}
+		.ico-3-4-2column{
+		background-position:-154px 0;
+			}
+		.ico-2-4column{
+		background-position:0 -20px;
+				}
+		.ico-2-4-0column{
+		background-position:-31px -20px;
+					}
+		.ico-1-6column{
+		background-position:-62px -20px;
+			}
+		.ico-3-6column{
+		background-position:-92px -20px;
+				}
+		.ico-custom-column{
+		background-position:-187px -15px;
+		width:20px;
+		height:22px;
+		margin-top:5px;
+		}

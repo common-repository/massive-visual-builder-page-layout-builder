@@ -1,0 +1,81 @@
+.gridly-content {
+	width: 980px;
+	margin: 80px auto;
+}
+.gridly-button {
+	display: block;
+	padding: 20px;
+	width: 200px;
+	color: white;
+	background: #888888;
+	margin: 20px 0;
+	text-align: center;
+	text-decoration: none;
+	border-radius: 4px;
+}
+.brick {
+	opacity: 1;
+	cursor: pointer;
+	position: relative;
+	background: #FF8F20;
+	float: left;
+	margin: 0;
+}
+.brick .mvb_delete_inline {
+	display: block;
+	color: white;
+	background-color: rgba(255, 255, 255, 0.2);
+	width: 40px;
+	height: 40px;
+	top: 0;
+	right: 0;
+	position: absolute;
+	text-align: center;
+	line-height: 35px;
+}
+.brick.small {
+	color: #FFF;
+	width: 100%;
+	padding: 8px 0;
+	cursor: pointer;
+	font-size: 14px;
+	font-weight: 600;
+	padding: 8px 0;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+}
+.brick.large {
+	width: 300px;
+	height: 300px;
+}
+.brick.dragging {
+	opacity: 0.8;
+}
+.mvb_barname {
+	background-image: url("../images/admin-icon/down.png");
+	background-position: 35% center;
+	background-repeat: no-repeat;
+	cursor: pointer;
+	display: block;
+	font-size: 14px;
+	font-weight: 600;
+	text-align: center;
+	text-decoration: none;
+	vertical-align: middle;
+}
+.mvb_main_inline {
+	clear: both;
+	float: left;
+	margin: 0;
+	padding: 8px 0 0 30px;
+	width: 95%;
+}
+#mvb_addnew_inline {
+	background: #BEBEBE;
+	background-image: url("../images/admin-icon/plus.png");
+	background-position: 15% center;
+	background-repeat: no-repeat;
+	margin-bottom: 10px;
+	width: 40%;
+}

@@ -1,0 +1,1711 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: massive_page_bui\n"
+"POT-Creation-Date: 2014-03-23 14:38+0200\n"
+"PO-Revision-Date: 2014-03-23 14:48+0200\n"
+"Last-Translator: \n"
+"Language-Team: tytytry <zcxzcz@cbvcb.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../assets/shortcodes/available.php:13
+msgid "Basic shortcodes"
+msgstr ""
+
+#: ../assets/shortcodes/available.php:29
+msgid "Frame align"
+msgstr "Rahmen align"
+
+#: ../assets/shortcodes/available.php:33
+msgid "Image tag"
+msgstr "Bild-Tag"
+
+#: ../assets/shortcodes/available.php:34
+msgid "Styled image frame"
+msgstr "Styled Bildrahmen"
+
+#: ../assets/shortcodes/available.php:115 ../elements.php:211
+msgid "Simple Accordion"
+msgstr "Einfache Akkordeon"
+
+#: ../assets/shortcodes/available.php:129
+msgid "Slice Title"
+msgstr "Slice-Titel"
+
+#: ../assets/shortcodes/available.php:132
+#: ../assets/shortcodes/available.php:1794
+#: ../assets/shortcodes/available.php:2140
+#: ../assets/shortcodes/available.php:2230
+#: ../assets/shortcodes/available.php:2361
+#: ../assets/shortcodes/available.php:2441
+#: ../assets/shortcodes/available.php:2603
+msgid "Html or plain text"
+msgstr "HTML oder Nur-Text"
+
+#: ../assets/shortcodes/available.php:145
+msgid "Show TOP link"
+msgstr "Top Link"
+
+#: ../assets/shortcodes/available.php:149
+msgid "Content divider with optional TOP link"
+msgstr "Inhalt Teiler mit optionalen Top-Link"
+
+#: ../assets/shortcodes/available.php:165
+msgid "Spacer height in pixels"
+msgstr "Spacer Höhe in Pixel"
+
+#: ../assets/shortcodes/available.php:169
+msgid "Empty space with adjustable height"
+msgstr "Der leere Raum mit einstellbarer Höhe"
+
+#: ../assets/shortcodes/available.php:183
+msgid "Quote style"
+msgstr "Zitat Stil"
+
+#: ../assets/shortcodes/available.php:187 ../elements.php:241
+msgid "Quote"
+msgstr "Zitat"
+
+#: ../assets/shortcodes/available.php:188
+msgid "Blockquote alternative"
+msgstr "Blockquote Alternative"
+
+#: ../assets/shortcodes/available.php:201
+msgid "Pullquote alignment"
+msgstr "Ziehen Quote Ausrichtung"
+
+#: ../assets/shortcodes/available.php:205
+#: ../assets/shortcodes/available.php:206 ../elements.php:251
+msgid "Pullquote"
+msgstr "Ziehen Zitat"
+
+#: ../assets/shortcodes/available.php:216
+msgid "Background color"
+msgstr "Hintergrundfarbe"
+
+#: ../assets/shortcodes/available.php:222
+msgid "Text color"
+msgstr "Textfarbe"
+
+#: ../assets/shortcodes/available.php:227
+#: ../assets/shortcodes/available.php:228
+msgid "Highlighted text"
+msgstr "markierten Text"
+
+#: ../assets/shortcodes/available.php:244
+msgid "Label style"
+msgstr "Label-Stil"
+
+#: ../assets/shortcodes/available.php:248
+msgid "Label"
+msgstr "Etikett"
+
+#: ../assets/shortcodes/available.php:249
+msgid "Styled label"
+msgstr "styled Label"
+
+#: ../assets/shortcodes/available.php:263
+msgid "Dropcap style"
+msgstr "Drop-Cap-Stil"
+
+#: ../assets/shortcodes/available.php:274
+msgid "Dropcap size"
+msgstr "Drop-Cap Größe"
+
+#: ../assets/shortcodes/available.php:278
+msgid "D"
+msgstr ""
+
+#: ../assets/shortcodes/available.php:279 ../elements.php:281
+msgid "Dropcap"
+msgstr "Drop-Cap"
+
+#: ../assets/shortcodes/available.php:302
+msgid "Option name"
+msgstr "Optionsname"
+
+#: ../assets/shortcodes/available.php:306
+msgid "Blog info"
+msgstr "Blog info"
+
+#: ../assets/shortcodes/available.php:316
+msgid "Post/page ID"
+msgstr "Post / Seiten-ID"
+
+#: ../assets/shortcodes/available.php:324
+msgid "Link target"
+msgstr "Link-Ziel"
+
+#: ../assets/shortcodes/available.php:328
+msgid "Permalink text"
+msgstr "Permalink Text"
+
+#: ../assets/shortcodes/available.php:329
+msgid "Permalink to specified post/page"
+msgstr "Permalink angegeben Beitrag / Seite"
+
+#: ../assets/shortcodes/available.php:339
+msgid "Button link"
+msgstr "Button-Link"
+
+#: ../assets/shortcodes/available.php:344
+msgid "Button background color"
+msgstr "Button-Hintergrundfarbe"
+
+#: ../assets/shortcodes/available.php:363
+msgid "Button size"
+msgstr "Knopf Größe"
+
+#: ../assets/shortcodes/available.php:374
+msgid "Button background style"
+msgstr "Button-Hintergrund-Stil"
+
+#: ../assets/shortcodes/available.php:382
+msgid "Dark text color"
+msgstr "Dunkle Textfarbe"
+
+#: ../assets/shortcodes/available.php:393
+msgid "Corners radius"
+msgstr "Corners Radius"
+
+#: ../assets/shortcodes/available.php:398
+msgid "Button icon"
+msgstr "Button-Symbol"
+
+#: ../assets/shortcodes/available.php:403
+msgid "Button class"
+msgstr "Button-Klasse"
+
+#: ../assets/shortcodes/available.php:411
+msgid "Button link target"
+msgstr "Button-Link-Ziel"
+
+#: ../assets/shortcodes/available.php:415
+msgid "Button text"
+msgstr "Button-Text"
+
+#: ../assets/shortcodes/available.php:416
+msgid "Styled button"
+msgstr "styled Taste"
+
+#: ../assets/shortcodes/available.php:429
+msgid "Link color"
+msgstr "Linkfarbe"
+
+#: ../assets/shortcodes/available.php:434
+msgid "URL"
+msgstr "URL"
+
+#: ../assets/shortcodes/available.php:438
+msgid "Link text"
+msgstr "Link-Text"
+
+#: ../assets/shortcodes/available.php:439
+msgid "Fancy link"
+msgstr "Fancy Link"
+
+#: ../assets/shortcodes/available.php:448
+#: ../assets/shortcodes/available.php:449
+msgid "Service title"
+msgstr "Service-Titel"
+
+#: ../assets/shortcodes/available.php:454
+msgid "Service icon"
+msgstr "Service-Symbol"
+
+#: ../assets/shortcodes/available.php:463
+msgid "Icon size"
+msgstr "Symbolgröße"
+
+#: ../assets/shortcodes/available.php:467
+msgid "Service description"
+msgstr "Beschreibung der Dienstleistung"
+
+#: ../assets/shortcodes/available.php:468
+msgid "Service box with title"
+msgstr "Service-Box mit dem Titel"
+
+#: ../assets/shortcodes/available.php:482
+msgid "Box style"
+msgstr "Box-Stil"
+
+#: ../assets/shortcodes/available.php:490
+msgid "Show login message"
+msgstr "Anmeldung Zeige Nachricht"
+
+#: ../assets/shortcodes/available.php:494
+msgid "Content for logged members"
+msgstr "Content für eingeloggte Mitglieder"
+
+#: ../assets/shortcodes/available.php:495
+msgid "Content for logged in members only"
+msgstr "Content für protokollierte Mitglieder nur"
+
+#: ../assets/shortcodes/available.php:503
+msgid "Content for guests"
+msgstr "Inhalt für Gäste"
+
+#: ../assets/shortcodes/available.php:504
+msgid "Content for guests only"
+msgstr "Inhalt nur für Gäste"
+
+#: ../assets/shortcodes/available.php:510
+msgid "Box Content"
+msgstr "Box-Inhalt"
+
+#: ../assets/shortcodes/available.php:519
+#: ../assets/shortcodes/available.php:520
+msgid "Box title"
+msgstr "Box-Titel"
+
+#: ../assets/shortcodes/available.php:525
+msgid "Box color"
+msgstr "Box Farbe"
+
+#: ../assets/shortcodes/available.php:543
+msgid "Note color"
+msgstr "Hinweis Farb"
+
+#: ../assets/shortcodes/available.php:548
+msgid "Note text"
+msgstr "Hinweis Text"
+
+#: ../assets/shortcodes/available.php:549
+msgid "Colored box"
+msgstr "farbige Box"
+
+#: ../assets/shortcodes/available.php:557
+msgid "Private note text"
+msgstr "Persönliche Notiz Text"
+
+#: ../assets/shortcodes/available.php:558
+msgid "Private note for post authors"
+msgstr "Persönliche Notiz für Post Autoren"
+
+#: ../assets/shortcodes/available.php:584
+msgid "List style"
+msgstr "Liste Stil"
+
+#: ../assets/shortcodes/available.php:588
+msgid "List item "
+msgstr "Liste item"
+
+#: ../assets/shortcodes/available.php:589
+msgid "Styled unordered list"
+msgstr "Styled ungeordnete Liste"
+
+#: ../assets/shortcodes/available.php:599
+msgid "Feed URL"
+msgstr "Feed-URL"
+
+#: ../assets/shortcodes/available.php:604
+msgid "Number of item to show"
+msgstr "Anzahl der Artikel zu zeigen,"
+
+#: ../assets/shortcodes/available.php:609
+msgid "Background Color Title"
+msgstr "Hintergrundfarbe Titel"
+
+#: ../assets/shortcodes/available.php:615
+#: ../assets/shortcodes/available.php:905
+#: ../assets/shortcodes/available.php:961
+msgid "Height"
+msgstr "Höhe"
+
+#: ../assets/shortcodes/available.php:619
+msgid "Feed grabber"
+msgstr "Grabber-Feed"
+
+#: ../assets/shortcodes/available.php:629
+msgid "Custom menu name"
+msgstr "Benutzerdefinierte Menüname"
+
+#: ../assets/shortcodes/available.php:633
+msgid "Custom menu by name"
+msgstr "Custom-Menü nach Namen"
+
+#: ../assets/shortcodes/available.php:805
+msgid "Table style"
+msgstr "Tabelle Stil"
+
+#: ../assets/shortcodes/available.php:810
+msgid "Create table from CSV"
+msgstr "Neues aus CSV-Tabelle"
+
+#: ../assets/shortcodes/available.php:815
+msgid "Styled table from HTML or CSV file"
+msgstr "Styled Tabelle aus HTML-oder CSV-Datei"
+
+#: ../assets/shortcodes/available.php:891
+msgid "Media URL"
+msgstr "Medien-URL"
+
+#: ../assets/shortcodes/available.php:898
+#: ../assets/shortcodes/available.php:954
+msgid "Width"
+msgstr "Breite"
+
+#: ../assets/shortcodes/available.php:914
+msgid "jwPlayer url-encoded params"
+msgstr "jwPlayer url-encoded params"
+
+#: ../assets/shortcodes/available.php:918
+msgid "YouTube video, Vimeo video, .mp4/.flv video, .mp3 file or images"
+msgstr "YouTube-Video, Vimeo-Video, Video-.mp4/.flv. Mp3-Datei oder Bilder"
+
+#: ../assets/shortcodes/available.php:966
+msgid "Marker address"
+msgstr "Marker-Adresse"
+
+#: ../assets/shortcodes/available.php:970
+msgid "Maps by Google"
+msgstr "Karten von Google"
+
+#: ../assets/shortcodes/available.php:1186
+msgid "Twitter username"
+msgstr "Twitter-Benutzernamen"
+
+#: ../assets/shortcodes/available.php:1197
+msgid "Number of tweets to show"
+msgstr "Anzahl der Tweets zu zeigen,"
+
+#: ../assets/shortcodes/available.php:1205
+msgid "Tweets style"
+msgstr "Tweets Stil"
+
+#: ../assets/shortcodes/available.php:1213
+msgid "Show relative time"
+msgstr "Zeigen relative Zeit"
+
+#: ../assets/shortcodes/available.php:1217
+msgid "Recent tweets"
+msgstr "Aktuelle Tweets"
+
+#: ../assets/shortcodes/available.php:1227
+msgid "FaceBook Page Link"
+msgstr "Facebook-Seiten-Link"
+
+#: ../assets/shortcodes/available.php:1234
+msgid "FB Widget Width"
+msgstr "FB Widget Breite"
+
+#: ../assets/shortcodes/available.php:1241
+msgid "FB Widget Height"
+msgstr "FB Widget Höhe"
+
+#: ../assets/shortcodes/available.php:1249
+msgid "Show Faces"
+msgstr "Faces anzeigen"
+
+#: ../assets/shortcodes/available.php:1257
+msgid "Color Scheme"
+msgstr "Farbschema"
+
+#: ../assets/shortcodes/available.php:1266
+msgid "Show Stream"
+msgstr "Bach anzeigen"
+
+#: ../assets/shortcodes/available.php:1274
+msgid "Show Border"
+msgstr "Rahmen anzeigen"
+
+#: ../assets/shortcodes/available.php:1282
+msgid "Show Header"
+msgstr "Kopfzeile anzeigen"
+
+#: ../assets/shortcodes/available.php:1286 ../elements.php:462
+msgid "FB Like Box"
+msgstr "FB Like Box"
+
+#: ../assets/shortcodes/available.php:1296
+msgid "Google+ API key"
+msgstr "Google+ API-Schlüssel"
+
+#: ../assets/shortcodes/available.php:1301
+msgid "Google+ profile ID"
+msgstr "Google+ Profil-ID"
+
+#: ../assets/shortcodes/available.php:1306
+msgid "Number of posts"
+msgstr "Anzahl der Beiträge"
+
+#: ../assets/shortcodes/available.php:1313
+msgid "Rotate posts list"
+msgstr "Rotate posts list"
+
+#: ../assets/shortcodes/available.php:1320
+msgid "Height of widget body"
+msgstr "Höhe Widget Körper"
+
+#: ../assets/shortcodes/available.php:1325
+msgid "Width/Height of profile image"
+msgstr "Breite / Höhe des Profil-Bild"
+
+#: ../assets/shortcodes/available.php:1332
+msgid "Theme Option"
+msgstr "Theme-Option"
+
+#: ../assets/shortcodes/available.php:1337
+msgid "Google+ Activity Widget"
+msgstr "Aktivität Google+ Widget"
+
+#: ../assets/shortcodes/available.php:1347
+msgid "WP Archive Title"
+msgstr "WP Archiv Titel"
+
+#: ../assets/shortcodes/available.php:1352
+msgid "Display number of posts in each archive"
+msgstr "Anzeige der Anzahl der Beiträge in jedem Archiv"
+
+#: ../assets/shortcodes/available.php:1357
+#: ../assets/shortcodes/available.php:1431
+msgid "Display as drop-down list"
+msgstr "Anzeige als Dropdown-Liste"
+
+#: ../assets/shortcodes/available.php:1362
+#: ../assets/shortcodes/available.php:1394
+#: ../assets/shortcodes/available.php:1436
+#: ../assets/shortcodes/available.php:1493
+#: ../assets/shortcodes/available.php:1525
+#: ../assets/shortcodes/available.php:1562
+#: ../assets/shortcodes/available.php:1600
+#: ../assets/shortcodes/available.php:1637
+#: ../assets/shortcodes/available.php:1669
+#: ../assets/shortcodes/available.php:1706
+#: ../assets/shortcodes/available.php:1748
+msgid "the text or HTML before the widget"
+msgstr "Text oder HTML vor dem Widget"
+
+#: ../assets/shortcodes/available.php:1367
+#: ../assets/shortcodes/available.php:1399
+#: ../assets/shortcodes/available.php:1441
+#: ../assets/shortcodes/available.php:1498
+#: ../assets/shortcodes/available.php:1530
+#: ../assets/shortcodes/available.php:1567
+#: ../assets/shortcodes/available.php:1605
+#: ../assets/shortcodes/available.php:1642
+#: ../assets/shortcodes/available.php:1674
+#: ../assets/shortcodes/available.php:1711
+#: ../assets/shortcodes/available.php:1753
+msgid "the text or HTML after the widget"
+msgstr "Text oder HTML nach dem Widget"
+
+#: ../assets/shortcodes/available.php:1372
+#: ../assets/shortcodes/available.php:1404
+#: ../assets/shortcodes/available.php:1446
+#: ../assets/shortcodes/available.php:1503
+#: ../assets/shortcodes/available.php:1535
+#: ../assets/shortcodes/available.php:1572
+#: ../assets/shortcodes/available.php:1610
+#: ../assets/shortcodes/available.php:1647
+#: ../assets/shortcodes/available.php:1679
+#: ../assets/shortcodes/available.php:1716
+#: ../assets/shortcodes/available.php:1758
+msgid "the text or HTML before the widget title. "
+msgstr "Text oder HTML vor dem Widget-Titel."
+
+#: ../assets/shortcodes/available.php:1377
+#: ../assets/shortcodes/available.php:1409
+#: ../assets/shortcodes/available.php:1451
+#: ../assets/shortcodes/available.php:1508
+#: ../assets/shortcodes/available.php:1540
+#: ../assets/shortcodes/available.php:1577
+#: ../assets/shortcodes/available.php:1615
+#: ../assets/shortcodes/available.php:1652
+#: ../assets/shortcodes/available.php:1684
+#: ../assets/shortcodes/available.php:1721
+#: ../assets/shortcodes/available.php:1763
+msgid "the text or HTML after the widget title"
+msgstr "Text oder HTML-Widget nach dem Titel"
+
+#: ../assets/shortcodes/available.php:1389
+msgid "WP Calendar Title"
+msgstr "WP Kalender Titel"
+
+#: ../assets/shortcodes/available.php:1421
+msgid "WP Categories Title"
+msgstr "WP Kategorien Titel"
+
+#: ../assets/shortcodes/available.php:1426
+msgid "Display number of posts in each category"
+msgstr "Anzeige der Anzahl der Beiträge in jeder Kategorie"
+
+#: ../assets/shortcodes/available.php:1463
+msgid "WP links Title"
+msgstr "WP Links Titel"
+
+#: ../assets/shortcodes/available.php:1468
+msgid "Link category IDs , separated by commas"
+msgstr "Link-Kategorie-IDs durch Kommas getrennt"
+
+#: ../assets/shortcodes/available.php:1473
+msgid "Display description of link"
+msgstr "Anzeige Beschreibung Link"
+
+#: ../assets/shortcodes/available.php:1478
+msgid "Display rating of link"
+msgstr "Anzeigen Bewertungen von Link"
+
+#: ../assets/shortcodes/available.php:1483
+msgid "Display image of link"
+msgstr "Bild von Link-Anzeige"
+
+#: ../assets/shortcodes/available.php:1488
+msgid "Output link name to the alt attribute"
+msgstr "Ausgangs Link-Namen zu der alt-Attribut"
+
+#: ../assets/shortcodes/available.php:1520
+#: ../assets/shortcodes/available.php:1552
+msgid "WP Meta Title"
+msgstr "WP Meta-Titel"
+
+#: ../assets/shortcodes/available.php:1557
+msgid "Page IDs, separated by commas"
+msgstr "Seite IDs durch Kommas getrennt"
+
+#: ../assets/shortcodes/available.php:1590
+msgid "WP Recent Comments Title"
+msgstr "WP Neueste Kommentare Titel"
+
+#: ../assets/shortcodes/available.php:1595
+msgid "Number of comments to show"
+msgstr "Anzahl der Kommentare zu zeigen,"
+
+#: ../assets/shortcodes/available.php:1627
+msgid "WP Recent Posts Title"
+msgstr "WP Aktuelle Beiträge Titel"
+
+#: ../assets/shortcodes/available.php:1632
+msgid "Number of posts to show"
+msgstr "Anzahl der Beiträge zu zeigen,"
+
+#: ../assets/shortcodes/available.php:1664
+msgid "WP Search Title"
+msgstr "WP Suche Titel"
+
+#: ../assets/shortcodes/available.php:1696
+msgid "WP Tag Cloud Title"
+msgstr "WP Tag Cloud Titel"
+
+#: ../assets/shortcodes/available.php:1701
+msgid "WP Taxonomy "
+msgstr "WP Taxonomie"
+
+#: ../assets/shortcodes/available.php:1733
+msgid "WP Text Title"
+msgstr "WP Text Titel"
+
+#: ../assets/shortcodes/available.php:1738 ../elements.php:596
+msgid "WP Text"
+msgstr "WP Text"
+
+#: ../assets/shortcodes/available.php:1743
+msgid "WP Filter"
+msgstr "WP-Filter"
+
+#: ../assets/shortcodes/available.php:1775
+msgid "Dialog  Window Title"
+msgstr "Dialogfenster Titel"
+
+#: ../assets/shortcodes/available.php:1780
+msgid "Dialog  Trigger Button"
+msgstr "Dialog Auslöseknopf"
+
+#: ../assets/shortcodes/available.php:1785
+msgid "Effect Type"
+msgstr "Effekt-Typ"
+
+#: ../assets/shortcodes/available.php:1790
+#: ../assets/shortcodes/available.php:1814
+msgid "Bg Color"
+msgstr "bg Farbe"
+
+#: ../assets/shortcodes/available.php:1804
+msgid "Button Type"
+msgstr "Button Type"
+
+#: ../assets/shortcodes/available.php:1809
+#: ../assets/shortcodes/available.php:1913
+#: ../assets/shortcodes/available.php:1971
+#: ../assets/shortcodes/available.php:2083
+#: ../assets/shortcodes/available.php:2188
+#: ../assets/shortcodes/available.php:2330
+msgid "User Custom Class"
+msgstr "Benutzer Custom Class"
+
+#: ../assets/shortcodes/available.php:1820
+msgid "BG Hover Color"
+msgstr "BG Hover Farbe"
+
+#: ../assets/shortcodes/available.php:1826
+#: ../assets/shortcodes/available.php:2095
+#: ../assets/shortcodes/available.php:2729
+#: ../assets/shortcodes/available.php:2864
+msgid "Border Color"
+msgstr "Randfarbe"
+
+#: ../assets/shortcodes/available.php:1832
+msgid "Border Hover Color"
+msgstr "Border Hover Farbe"
+
+#: ../assets/shortcodes/available.php:1838 ../postmod_settings.php:110
+msgid "Title Color"
+msgstr "Titel Farbe"
+
+#: ../assets/shortcodes/available.php:1844
+msgid "Font Awesome Icon"
+msgstr "Font gut Icon"
+
+#: ../assets/shortcodes/available.php:1849
+msgid "Icon Color"
+msgstr "Symbol Farbe"
+
+#: ../assets/shortcodes/available.php:1857
+msgid "Animation Button width"
+msgstr "Zeichentrick-Knopf Breite"
+
+#: ../assets/shortcodes/available.php:1862
+msgid "Animation Button link"
+msgstr "Zeichentrick-Taste Link"
+
+#: ../assets/shortcodes/available.php:1867
+#: ../assets/shortcodes/available.php:2295
+msgid "Button Title"
+msgstr "Button-Titel"
+
+#: ../assets/shortcodes/available.php:1872
+msgid "Button SubTitle"
+msgstr "Knopf SubTitle"
+
+#: ../assets/shortcodes/available.php:1879
+msgid "Button Font Size"
+msgstr "Schaltfläche Schriftgröße"
+
+#: ../assets/shortcodes/available.php:1886
+msgid "Alternative Font Size"
+msgstr "Alternative Schriftgröße"
+
+#: ../assets/shortcodes/available.php:1898
+msgid "Heading Set Type"
+msgstr "Überschrift Set Typ"
+
+#: ../assets/shortcodes/available.php:1903
+msgid "Heading Text"
+msgstr "Überschrift Text"
+
+#: ../assets/shortcodes/available.php:1908
+#: ../assets/shortcodes/available.php:2240
+msgid "Heading Set Style"
+msgstr "Überschrift Set Stil"
+
+#: ../assets/shortcodes/available.php:1918
+#: ../assets/shortcodes/available.php:2255
+msgid "Heading Color"
+msgstr "Überschrift Farb"
+
+#: ../assets/shortcodes/available.php:1924
+#: ../assets/shortcodes/available.php:2261
+msgid "Heading BG Color"
+msgstr "Überschrift BG Farbe"
+
+#: ../assets/shortcodes/available.php:1930
+msgid "Heading Border Color"
+msgstr "Überschrift Randfarbe"
+
+#: ../assets/shortcodes/available.php:1938
+#: ../assets/shortcodes/available.php:2090
+msgid "Border Width"
+msgstr "Randbreite"
+
+#: ../assets/shortcodes/available.php:1943
+#: ../assets/shortcodes/available.php:2000
+msgid "Border Style"
+msgstr "Rahmenstil"
+
+#: ../assets/shortcodes/available.php:1948
+msgid "Heading Font Awesome Icon"
+msgstr "Überschrift Font Awesome Icon"
+
+#: ../assets/shortcodes/available.php:1953
+msgid "Heading Icon Color"
+msgstr "Überschrift Icon Farbe"
+
+#: ../assets/shortcodes/available.php:1966
+msgid "Animated Tabs Type"
+msgstr "Animierte Tabs Typ"
+
+#: ../assets/shortcodes/available.php:1976
+msgid "Animated Tabs Style"
+msgstr "Animierte Tabs Stil"
+
+#: ../assets/shortcodes/available.php:1981
+msgid "Tab Button BG Color"
+msgstr "Tab Button BG Farbe"
+
+#: ../assets/shortcodes/available.php:1989
+msgid "Tab Border Width"
+msgstr "Tab Rahmenbreite"
+
+#: ../assets/shortcodes/available.php:1994
+msgid "Tab Border Color"
+msgstr "Tab Randfarbe"
+
+#: ../assets/shortcodes/available.php:2005
+msgid "Tab Font Color"
+msgstr "Tab Schriftfarbe"
+
+#: ../assets/shortcodes/available.php:2011
+msgid "Tab Hover BGColor"
+msgstr "Tab Hover BGColor"
+
+#: ../assets/shortcodes/available.php:2017
+msgid "Content Border Style"
+msgstr "Inhalt Rahmenstil"
+
+#: ../assets/shortcodes/available.php:2024
+msgid "Content Border Width"
+msgstr "Inhalt Randbreite"
+
+#: ../assets/shortcodes/available.php:2029
+msgid "Content Border Color"
+msgstr "Inhalt Randfarbe"
+
+#: ../assets/shortcodes/available.php:2035
+msgid "Content Background Color"
+msgstr "Inhalt Hintergrundfarbe"
+
+#: ../assets/shortcodes/available.php:2041
+msgid "Content Font Color"
+msgstr "Inhalt Schriftfarbe"
+
+#: ../assets/shortcodes/available.php:2049
+msgid "Tabs Content Height"
+msgstr "Tabs Inhalt Höhe"
+
+#: ../assets/shortcodes/available.php:2065
+msgid "Tab Title"
+msgstr "Tab Titel"
+
+#: ../assets/shortcodes/available.php:2068
+msgid "Tab Content "
+msgstr "Tab Content"
+
+#: ../assets/shortcodes/available.php:2078
+msgid "Sliding Type"
+msgstr "Schiebetür Typ"
+
+#: ../assets/shortcodes/available.php:2112
+#: ../assets/shortcodes/available.php:2204 ../postmod_settings.php:306
+msgid "Title"
+msgstr "Titel"
+
+#: ../assets/shortcodes/available.php:2119
+msgid "Title Font Size"
+msgstr "Titel Schriftgröße"
+
+#: ../assets/shortcodes/available.php:2125
+msgid "BG Images"
+msgstr "BG Images"
+
+#: ../assets/shortcodes/available.php:2130
+#: ../assets/shortcodes/available.php:2220
+msgid " BG Color"
+msgstr "BG Farbe"
+
+#: ../assets/shortcodes/available.php:2136
+#: ../assets/shortcodes/available.php:2226
+msgid " Font Color"
+msgstr "Schriftfarbe"
+
+#: ../assets/shortcodes/available.php:2152
+msgid "Slider height"
+msgstr "Slider Höhe"
+
+#: ../assets/shortcodes/available.php:2159
+msgid "Slide Time Out"
+msgstr "Schieben Time Out"
+
+#: ../assets/shortcodes/available.php:2166
+msgid "Tab Width"
+msgstr "Fahnenbreite"
+
+#: ../assets/shortcodes/available.php:2173
+msgid "Slide Speed"
+msgstr "Schieben Geschwindigkeit"
+
+#: ../assets/shortcodes/available.php:2178
+msgid "Hover Slide Pause"
+msgstr "Bewegen Diashow Pause"
+
+#: ../assets/shortcodes/available.php:2183
+msgid "SlideShow"
+msgstr "Diashow "
+
+#: ../assets/shortcodes/available.php:2210
+msgid "Slice Image"
+msgstr "Slicebild"
+
+#: ../assets/shortcodes/available.php:2215
+msgid "Slice links"
+msgstr "Scheibe Links"
+
+#: ../assets/shortcodes/available.php:2245
+msgid "Heading Title"
+msgstr "Überschrift Titel"
+
+#: ../assets/shortcodes/available.php:2250
+msgid "Heading Subtitle"
+msgstr "Überschrift Untertitel"
+
+#: ../assets/shortcodes/available.php:2267
+msgid "Body BG Color"
+msgstr "Körper BGColor"
+
+#: ../assets/shortcodes/available.php:2273
+msgid "Body Title"
+msgstr "Seiten-Titel"
+
+#: ../assets/shortcodes/available.php:2278
+msgid "Body Title Color"
+msgstr "Körper Titel Farbe"
+
+#: ../assets/shortcodes/available.php:2284
+msgid "Body Subtitle"
+msgstr "Körper Untertitel"
+
+#: ../assets/shortcodes/available.php:2289
+msgid "Button BG Color"
+msgstr "Knopf BG Farb"
+
+#: ../assets/shortcodes/available.php:2300
+msgid "Button Font Color"
+msgstr "Knopf Schriftfarbe"
+
+#: ../assets/shortcodes/available.php:2306
+msgid "Button Link"
+msgstr "Button Link"
+
+#: ../assets/shortcodes/available.php:2312 ../postmod_settings.php:113
+msgid "Box Border Color"
+msgstr "Box Randfarbe"
+
+#: ../assets/shortcodes/available.php:2320
+msgid "Box Border Width"
+msgstr "Box Rahmenbreite"
+
+#: ../assets/shortcodes/available.php:2325
+msgid "Box Border Style"
+msgstr "Box Rahmenstil"
+
+#: ../assets/shortcodes/available.php:2346
+msgid "List Font Awesome Icon"
+msgstr "Liste Font Awesome Icon"
+
+#: ../assets/shortcodes/available.php:2351
+msgid "List Icon Color"
+msgstr "Liste Symbol Farbe"
+
+#: ../assets/shortcodes/available.php:2357
+#: ../assets/shortcodes/available.php:2437
+msgid "Font Color"
+msgstr "Schriftfarbe"
+
+#: ../assets/shortcodes/available.php:2385
+#: ../assets/shortcodes/available.php:2451
+msgid "Auto Play"
+msgstr "Auto Play"
+
+#: ../assets/shortcodes/available.php:2392
+#: ../assets/shortcodes/available.php:2480
+msgid "Min Height"
+msgstr "Min. Höhe"
+
+#: ../assets/shortcodes/available.php:2399
+msgid "Min Width"
+msgstr "Min. Breite"
+
+#: ../assets/shortcodes/available.php:2416
+#: ../assets/shortcodes/available.php:2585
+msgid "Slide Image"
+msgstr "Slide Bild"
+
+#: ../assets/shortcodes/available.php:2422
+msgid "Slide Image Background"
+msgstr "Slide-Bild-Hintergrund"
+
+#: ../assets/shortcodes/available.php:2427
+msgid "Slide Image Animation"
+msgstr "Diashow Bild-Animation"
+
+#: ../assets/shortcodes/available.php:2432
+msgid "Slide Content Animation"
+msgstr "Schieben Inhalt Trick"
+
+#: ../assets/shortcodes/available.php:2456
+msgid "Play Pause"
+msgstr "Wiedergabe Pause"
+
+#: ../assets/shortcodes/available.php:2461
+msgid "Easing"
+msgstr "Lockerung"
+
+#: ../assets/shortcodes/available.php:2466
+msgid "Motion Effect"
+msgstr "Bewegungseffekt"
+
+#: ../assets/shortcodes/available.php:2473
+msgid "Slider Height"
+msgstr "Slider Höhe"
+
+#: ../assets/shortcodes/available.php:2485
+msgid "Pause on Hover"
+msgstr "Pause bei Hover"
+
+#: ../assets/shortcodes/available.php:2490
+msgid "Loader"
+msgstr "Ladeprogramm"
+
+#: ../assets/shortcodes/available.php:2495
+msgid "Bar Direction"
+msgstr "Bar Richtung"
+
+#: ../assets/shortcodes/available.php:2500
+msgid "Bar Position"
+msgstr "Bar Position"
+
+#: ../assets/shortcodes/available.php:2505
+msgid "Pie Position"
+msgstr "Pie Position"
+
+#: ../assets/shortcodes/available.php:2510
+msgid "Loader Color"
+msgstr "loader Farbe"
+
+#: ../assets/shortcodes/available.php:2516
+msgid "Loader Bg Color"
+msgstr "Loader Bg Farbe"
+
+#: ../assets/shortcodes/available.php:2524
+msgid "Loader Opacity"
+msgstr "loader Deckkraft"
+
+#: ../assets/shortcodes/available.php:2529
+msgid "Navigation"
+msgstr "Navigation"
+
+#: ../assets/shortcodes/available.php:2534
+msgid "Navigation Hover"
+msgstr "Hover Navigation"
+
+#: ../assets/shortcodes/available.php:2539
+msgid "Over Layer"
+msgstr "über der Schicht"
+
+#: ../assets/shortcodes/available.php:2544
+msgid "Pagination"
+msgstr "Pagination"
+
+#: ../assets/shortcodes/available.php:2549
+msgid "Pause On Click"
+msgstr "Klicken Sie auf Pause"
+
+#: ../assets/shortcodes/available.php:2554
+msgid "Thumbnails"
+msgstr "thumbnails"
+
+#: ../assets/shortcodes/available.php:2561
+msgid "Sliding Time"
+msgstr "Endes Zeit"
+
+#: ../assets/shortcodes/available.php:2568
+msgid "Trans Period"
+msgstr "trans Zeitraum"
+
+#: ../assets/shortcodes/available.php:2590
+msgid "Caption Appearance"
+msgstr "Bildunterschrift Aussehen"
+
+#: ../assets/shortcodes/available.php:2595
+msgid "Slide Link"
+msgstr "Link-Slide"
+
+#: ../assets/shortcodes/available.php:2600
+msgid "Embed Video URl"
+msgstr "Embed Video-URL"
+
+#: ../assets/shortcodes/available.php:2613
+#: ../assets/shortcodes/available.php:2780
+msgid "Background Color"
+msgstr "Hintergrundfarbe"
+
+#: ../assets/shortcodes/available.php:2622
+#: ../assets/shortcodes/available.php:2789
+msgid " Top Margin "
+msgstr " Top Marge"
+
+#: ../assets/shortcodes/available.php:2630
+#: ../assets/shortcodes/available.php:2797
+msgid " Right Margin "
+msgstr "Recht Marge"
+
+#: ../assets/shortcodes/available.php:2638
+#: ../assets/shortcodes/available.php:2805
+msgid " Bottom Margin "
+msgstr "Boden Marge"
+
+#: ../assets/shortcodes/available.php:2646
+#: ../assets/shortcodes/available.php:2813
+msgid " Left Margin "
+msgstr "Links Marge"
+
+#: ../assets/shortcodes/available.php:2654
+#: ../assets/shortcodes/available.php:2821
+msgid " Top Padding "
+msgstr "Top Polsterung"
+
+#: ../assets/shortcodes/available.php:2662
+#: ../assets/shortcodes/available.php:2829
+msgid " Right Padding "
+msgstr "Rechts Polsterung"
+
+#: ../assets/shortcodes/available.php:2670
+#: ../assets/shortcodes/available.php:2837
+msgid " Bottom Padding "
+msgstr "Boden Polsterung"
+
+#: ../assets/shortcodes/available.php:2678
+#: ../assets/shortcodes/available.php:2845
+msgid " Left Padding "
+msgstr "Links Polsterung"
+
+#: ../assets/shortcodes/available.php:2686
+#: ../assets/shortcodes/available.php:2853
+msgid " Border Width "
+msgstr "Randbreite"
+
+#: ../assets/shortcodes/available.php:2692
+#: ../assets/shortcodes/available.php:2859
+msgid " Border Style "
+msgstr "Rahmenstil"
+
+#: ../assets/shortcodes/available.php:2700
+#: ../assets/shortcodes/available.php:2873
+msgid " Border radius (Top - Left) "
+msgstr "Border Radius (Top - Links)"
+
+#: ../assets/shortcodes/available.php:2708
+#: ../assets/shortcodes/available.php:2881
+msgid " Border radius (Top - Right) "
+msgstr "Border Radius (Top - Rechts)"
+
+#: ../assets/shortcodes/available.php:2716
+#: ../assets/shortcodes/available.php:2889
+msgid " Border radius (Bottom - Left) "
+msgstr "Border Radius (unten - links)"
+
+#: ../assets/shortcodes/available.php:2724
+#: ../assets/shortcodes/available.php:2897
+msgid " Border radius (Bottom - Right) "
+msgstr "Border Radius (Bottom - Rechts)"
+
+#: ../assets/shortcodes/available.php:2738
+#: ../assets/shortcodes/available.php:2905
+msgid "Shadow Horizontal Offset "
+msgstr "Schatten Horizontaler Offset"
+
+#: ../assets/shortcodes/available.php:2746
+#: ../assets/shortcodes/available.php:2913
+msgid "Shadow Vertical Offset "
+msgstr "Schatten Vertical Offset"
+
+#: ../assets/shortcodes/available.php:2754
+#: ../assets/shortcodes/available.php:2921
+msgid " Shadow Blur Radius "
+msgstr "Schatten Blur Radius"
+
+#: ../assets/shortcodes/available.php:2762
+#: ../assets/shortcodes/available.php:2929
+msgid " Shadow Spread Radius "
+msgstr "Schatten-Spread-Radius"
+
+#: ../assets/shortcodes/available.php:2767
+#: ../assets/shortcodes/available.php:2934
+msgid "Box Shadow Color"
+msgstr "Box Schattenfarbe"
+
+#: ../assets/shortcodes/available.php:2940
+msgid "Column Width "
+msgstr "Spaltenbreite"
+
+#: ../assets/shortcodes/available.php:2952
+msgid "Video Thumbnail"
+msgstr "Video Thumbnail"
+
+#: ../assets/shortcodes/available.php:2958
+msgid "Video Embed URL"
+msgstr "Video Embed URL"
+
+#: ../assets/shortcodes/available.php:2971
+msgid "Images List"
+msgstr "Bilder Liste"
+
+#: ../assets/shortcodes/generator.php:155
+#: ../assets/shortcodes/generator.php:156
+#: ../assets/shortcodes/inline_generator.php:102
+#: ../assets/shortcodes/inline_generator.php:103 ../elements.php:68
+msgid "Content"
+msgstr "Inhalt"
+
+#: ../assets/shortcodes/shortcodes.php:55
+msgid "Spoiler title"
+msgstr "Spoiler Titel"
+
+#: ../assets/shortcodes/shortcodes.php:79
+msgid "Top"
+msgstr "Top"
+
+#: ../assets/shortcodes/shortcodes.php:299
+msgid "Service name"
+msgstr "Dienstname"
+
+#: ../assets/shortcodes/shortcodes.php:317
+msgid "This is box title"
+msgstr "Dies ist Box-Titel"
+
+#: ../assets/shortcodes/shortcodes.php:385
+msgid "Please specify media url"
+msgstr "Bitte geben url Medien"
+
+#: ../assets/shortcodes/shortcodes.php:520
+msgid "This menu doesn't exists, or has no elements"
+msgstr "Dieses Menü nicht vorhanden ist, oder keine Element"
+
+#: ../assets/shortcodes/shortcodes.php:560
+msgid "This content is for members only."
+msgstr "Dieser Inhalt ist nur für Mitglieder."
+
+#: ../assets/shortcodes/shortcodes.php:560
+msgid "Please login"
+msgstr "Bitte loggen Sie sich"
+
+#: ../elements.php:18
+msgid "Add Row"
+msgstr "Zeile hinzufügen"
+
+#: ../elements.php:23
+msgid "Add Widgets"
+msgstr "Widgets hinzufügen"
+
+#: ../elements.php:28
+msgid "Template System"
+msgstr "Schablone System"
+
+#: ../elements.php:33
+msgid "Template Name"
+msgstr "Schablone Name"
+
+#: ../elements.php:35
+msgid "Save as Template"
+msgstr "Als Vorlage speichern"
+
+#: ../elements.php:40
+msgid "Template List"
+msgstr "Schablone Liste"
+
+#: ../elements.php:47
+msgid "Load"
+msgstr "Last"
+
+#: ../elements.php:48
+msgid "Delete"
+msgstr "löschen"
+
+#: ../elements.php:67
+msgid "All"
+msgstr "alle"
+
+#: ../elements.php:69 ../elements.php:352
+msgid "Box"
+msgstr "Box"
+
+#: ../elements.php:70 ../elements.php:382
+msgid "Media"
+msgstr "Medien"
+
+#: ../elements.php:71 ../elements.php:162
+msgid "Gallery"
+msgstr "Galerie"
+
+#: ../elements.php:72
+msgid "Data"
+msgstr "Daten"
+
+#: ../elements.php:73
+msgid "Other"
+msgstr "andere"
+
+#: ../elements.php:84
+msgid "Post Modules"
+msgstr "Beitrag Module"
+
+#: ../elements.php:93
+msgid "Custom Content"
+msgstr "Custom Content"
+
+#: ../elements.php:105
+msgid "Animation Button"
+msgstr "Zeichentrick-Knopf"
+
+#: ../elements.php:115
+msgid "Heading Sets"
+msgstr "Überschrift Sets"
+
+#: ../elements.php:135
+msgid "Vertical Slide Accordion"
+msgstr "Vertikale Slide Akkordeon"
+
+#: ../elements.php:145
+msgid "Horizontal Slide Accordion"
+msgstr "Horizontal Slide Akkordeon"
+
+#: ../elements.php:152
+msgid "Pricing Plan"
+msgstr "Pricing-Plan"
+
+#: ../elements.php:173
+msgid "Sequence Slider"
+msgstr "Sequence Slider"
+
+#: ../elements.php:184
+msgid "Camera Slider"
+msgstr "Kamera-Slider"
+
+#: ../elements.php:192
+msgid "Dialog Window"
+msgstr "Dialogfenster"
+
+#: ../elements.php:221
+msgid "Divider"
+msgstr "Trennwand"
+
+#: ../elements.php:231
+msgid "Spacer"
+msgstr "Spacer"
+
+#: ../elements.php:261
+msgid "HighLight"
+msgstr "HighLight"
+
+#: ../elements.php:271
+msgid "label"
+msgstr "Etikett"
+
+#: ../elements.php:288
+msgid "Bloginfo"
+msgstr "Bloginfo"
+
+#: ../elements.php:295
+msgid "Permalink"
+msgstr "Permalink"
+
+#: ../elements.php:305
+msgid "Button"
+msgstr "Taste"
+
+#: ../elements.php:321
+msgid "Animated Tabs"
+msgstr "Animierte Tabs"
+
+#: ../elements.php:335
+msgid "Lists"
+msgstr "Listen"
+
+#: ../elements.php:342
+msgid "Services"
+msgstr "Dienstleistungen"
+
+#: ../elements.php:362
+msgid "Note"
+msgstr "Anmerkung"
+
+#: ../elements.php:372
+msgid "Private Note"
+msgstr "private Nachricht"
+
+#: ../elements.php:427
+msgid "Menu"
+msgstr "Menü"
+
+#: ../elements.php:434
+msgid "Google Map"
+msgstr "Google Map"
+
+#: ../elements.php:441
+msgid "Members"
+msgstr "Mitglieder"
+
+#: ../elements.php:448
+msgid "Guests"
+msgstr "Gäste"
+
+#: ../elements.php:455
+msgid "Feed"
+msgstr "Zuführung"
+
+#: ../elements.php:469
+msgid "Tweets Box"
+msgstr "Tweets Box"
+
+#: ../elements.php:476
+msgid "Google+ Box"
+msgstr "Google+ Box"
+
+#: ../elements.php:486
+msgid "Frame"
+msgstr "Rahmen"
+
+#: ../elements.php:496
+msgid "WP Archive"
+msgstr "WP Archiv"
+
+#: ../elements.php:506
+msgid "WP Calendar"
+msgstr "WP Kalender"
+
+#: ../elements.php:516
+msgid "WP Categories"
+msgstr "WP Kategorien"
+
+#: ../elements.php:526
+msgid "WP Links"
+msgstr "WP-Links"
+
+#: ../elements.php:536
+msgid "WP Meta"
+msgstr "WP Meta"
+
+#: ../elements.php:546
+msgid "WP Pages"
+msgstr "WP Seiten"
+
+#: ../elements.php:556
+msgid "Recent Comments"
+msgstr "Letzte Kommentare"
+
+#: ../elements.php:566
+msgid "Recent Posts"
+msgstr "Aktuelle Beiträge"
+
+#: ../elements.php:576
+msgid "WP Search"
+msgstr "WP Suche"
+
+#: ../elements.php:586
+msgid "WP Tag Cloud"
+msgstr "WP Tag Cloud"
+
+#: ../postmod_settings.php:16
+msgid "Display Module"
+msgstr "Anzeige Modul"
+
+#: ../postmod_settings.php:67
+msgid "Display Slide Module"
+msgstr "Anzeige Slide Modul"
+
+#: ../postmod_settings.php:96
+msgid "Slider Animation"
+msgstr "Slider Animation"
+
+#: ../postmod_settings.php:103
+msgid "Module Box Title"
+msgstr "Modul Box Titel"
+
+#: ../postmod_settings.php:106
+msgid "Module Box Style Options"
+msgstr "Modul Box Style-Optionen"
+
+#: ../postmod_settings.php:107
+msgid "Title Background Color"
+msgstr "Titel Hintergrundfarbe"
+
+#: ../postmod_settings.php:116
+msgid "Box Shadow"
+msgstr "Box-Schatten"
+
+#: ../postmod_settings.php:119
+msgid "Title Image Background"
+msgstr "Titel Bild-Hintergrund"
+
+#: ../postmod_settings.php:124
+msgid "Main Post Style"
+msgstr "Main Beiträge Stil"
+
+#: ../postmod_settings.php:126
+msgid "Border"
+msgstr "Grenze"
+
+#: ../postmod_settings.php:130
+msgid "Big Thumbnails Border"
+msgstr "groß Daumennagel Grenze"
+
+#: ../postmod_settings.php:134
+msgid "Big Thumbnails Box Shadow"
+msgstr "groß Daumennagel Box-Schatten"
+
+#: ../postmod_settings.php:138
+msgid "Thumbnail Width"
+msgstr "Thumbnail Width"
+
+#: ../postmod_settings.php:142
+msgid "Thumbnail height"
+msgstr "Thumbnail Höhe"
+
+#: ../postmod_settings.php:145
+msgid "Sub Posts Style"
+msgstr "Sub Beiträge Stil"
+
+#: ../postmod_settings.php:147
+msgid "BG color"
+msgstr "BG Farbe"
+
+#: ../postmod_settings.php:151
+msgid "Thumbnails Box Shadow"
+msgstr "Thumbnails Box Schatten"
+
+#: ../postmod_settings.php:155
+msgid "Border Bottom"
+msgstr "Grenze Boden"
+
+#: ../postmod_settings.php:159
+msgid "Thumbnails Border"
+msgstr "Thumbnails Grenze"
+
+#: ../postmod_settings.php:163
+msgid "Border Top"
+msgstr "Grenze Top"
+
+#: ../postmod_settings.php:167
+msgid "Post Date Font Color"
+msgstr "Beitrag Datum Schriftfarbe"
+
+#: ../postmod_settings.php:171
+msgid "Post Title Font Color"
+msgstr "Beitrag Titel Schriftfarbe"
+
+#: ../postmod_settings.php:175
+msgid "Post Comments Font Color"
+msgstr "Beitrag Kommentare Schriftfarbe"
+
+#: ../postmod_settings.php:179
+msgid "Boxes Height"
+msgstr "Boxen Höhe"
+
+#: ../postmod_settings.php:183
+msgid "Thumbnails Width"
+msgstr "thumbnails Breite"
+
+#: ../postmod_settings.php:187
+msgid "Thumbnails Height"
+msgstr "thumbnails Höhe"
+
+#: ../postmod_settings.php:194
+msgid "Social Buttons"
+msgstr "Sozial-Buttons"
+
+#: ../postmod_settings.php:196
+msgid "Facebook"
+msgstr "Facebook"
+
+#: ../postmod_settings.php:198
+msgid "Twitter"
+msgstr "Twitter"
+
+#: ../postmod_settings.php:200
+msgid "Google+"
+msgstr "Google+"
+
+#: ../postmod_settings.php:206
+msgid "Rating Stars"
+msgstr "Bewertung Sterne"
+
+#: ../postmod_settings.php:215
+msgid "Publish Date"
+msgstr "Veröffentlichen Datum"
+
+#: ../postmod_settings.php:224
+msgid "Comment Counter"
+msgstr "Kommentar Zähler"
+
+#: ../postmod_settings.php:269
+msgid "Post Number"
+msgstr "Nummer des Beitrags"
+
+#: ../postmod_settings.php:274
+msgid "Category"
+msgstr "Kategorie"
+
+#: ../postmod_settings.php:284
+msgid "Exclude Posts"
+msgstr "Ausschließen Beiträge"
+
+#: ../postmod_settings.php:289
+msgid "Display Posts By Tag Name"
+msgstr "Anzeige Beiträge des Tag-Name"
+
+#: ../postmod_settings.php:294
+msgid "Order"
+msgstr "bestellen"
+
+#: ../postmod_settings.php:296
+msgid "ASC"
+msgstr "ASC"
+
+#: ../postmod_settings.php:297
+msgid "DESC"
+msgstr "DESC"
+
+#: ../postmod_settings.php:301
+msgid "Order By"
+msgstr "bestellen nach"
+
+#: ../postmod_settings.php:303
+msgid "none"
+msgstr "keiner"
+
+#: ../postmod_settings.php:304
+msgid "ID"
+msgstr "ID"
+
+#: ../postmod_settings.php:305
+msgid "Author"
+msgstr "Autor"
+
+#: ../postmod_settings.php:307
+msgid "name"
+msgstr "Name"
+
+#: ../postmod_settings.php:308 ../postmod_settings.php:312
+msgid "date"
+msgstr "Datum"
+
+#: ../postmod_settings.php:309
+msgid "modified"
+msgstr "geändert"
+
+#: ../postmod_settings.php:310
+msgid "rand"
+msgstr "rand"
+
+#: ../postmod_settings.php:311
+msgid "comment count"
+msgstr "Kommentar Zählung"
+
+#: ../postmod_settings.php:315
+msgid "Display By Time"
+msgstr "Anzeige nach Zeit"
+
+#: ../postmod_settings.php:318
+msgid "- Day -"
+msgstr "- Tag -"
+
+#: ../postmod_settings.php:352
+msgid "- Month -"
+msgstr "- Monat -"
+
+#: ../postmod_settings.php:353
+msgid "January"
+msgstr "Januar"
+
+#: ../postmod_settings.php:354
+msgid "February"
+msgstr "Februar"
+
+#: ../postmod_settings.php:355
+msgid "March"
+msgstr "März"
+
+#: ../postmod_settings.php:356
+msgid "April"
+msgstr "April"
+
+#: ../postmod_settings.php:357
+msgid "May"
+msgstr "Mai"
+
+#: ../postmod_settings.php:358
+msgid "June"
+msgstr "Juni"
+
+#: ../postmod_settings.php:359
+msgid "July"
+msgstr "Juli"
+
+#: ../postmod_settings.php:360
+msgid "August"
+msgstr "August"
+
+#: ../postmod_settings.php:361
+msgid "September"
+msgstr "September"
+
+#: ../postmod_settings.php:362
+msgid "October"
+msgstr "Oktober"
+
+#: ../postmod_settings.php:363
+msgid "November"
+msgstr "November"
+
+#: ../postmod_settings.php:364
+msgid "December"
+msgstr "Dezember"
+
+#: ../postmod_settings.php:370
+msgid "Products Posts Only"
+msgstr "Nur Beiträge Nur Produkte"
+
+#: ../postmod_settings.php:372
+msgid "No"
+msgstr "nicht"
+
+#: ../postmod_settings.php:373
+msgid "yes"
+msgstr "ja"
+
+#: ../postmod_settings.php:376
+msgid "Display By Custom Field"
+msgstr "Anzeige von benutzerdefinierten Feld"
+
+#: ../postmod_settings.php:378
+msgid "Meta key"
+msgstr "Meta-Taste"
+
+#: ../postmod_settings.php:382
+msgid "Meta Value"
+msgstr "Meta Wert"
+
+#~ msgid "Animation Button text_h2"
+#~ msgstr "Zeichentrick-Taste Text h2"
+
+#~ msgid "Animation Button text_h3"
+#~ msgstr "Zeichentrick-Taste Text h3"
+
+#~ msgid "Media Link"
+#~ msgstr "Media Link"
+
+#~ msgid "no attached images, or only one attached image"
+#~ msgstr "keine angehängte Bilder oder nur ein Bild angehängt"
+
+#~ msgid "Small Thumbnails Width"
+#~ msgstr "Kleine Thumbnails Breite"
+
+#~ msgid "Small Thumbnails Height"
+#~ msgstr "Kleine Thumbnails Höhe"

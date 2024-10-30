@@ -1,0 +1,37 @@
+/*
+ * Massive Visual Builder for Wordpress
+ * all rights reserved 2014.
+ */
+.mvb_thumbsgrid {
+	display: inline-block;
+    height: auto;
+	margin:20px 0 20px 20px;
+	}
+  .mvb_thumb {
+    opacity: 1;
+	display: inline-block;
+    cursor: pointer;
+    position: relative; }
+    .mvb_thumb .mvb_image_delete {
+      display: block;
+      color: white;
+      background:rgba(100, 150, 222, 0.4);
+      width: 40px;
+      height: 40px;
+	  font-size: 30px;
+      top: 0;
+      right: 0;
+      position: absolute;
+      text-align: center;
+      line-height: 40px; }
+    .mvb_thumb.small {
+      width: 100px;
+      height: 100px;
+	  border:3px solid #4A79A8;
+	  margin: 0 5px; }
+   .mvb_thumb.large {
+      width: 300px;
+      height: 300px; }
+     .mvb_thumb.dragging {
+      opacity: 0.8; }
+    
